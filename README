@@ -1,18 +1,6 @@
-Installation Instructions
---------------------------
 
-1) create a user of your mysql server with
-   user name = "root"
-   user password = ""
-2) set the folder to your php runing environment(wamp/www or xamp/htdocs)
+This practice session sample  project,  created for for mini IT glossary 
+Full documented project…
+Use formal UML methodologies for the task.
+ ... Tharindu Madushanka ...
 
-3) go to the folder with your browser and open select mini folder(ex:http://localhost/glo/mini/db)
-
-4) go to your mysql server and check "studentimsdb" database, go to administrator table and add new administrator...
-    (ex: trpe this in query...  INSERT INTO  `studentimsdb`.`administrator` (`username` ,`password`,`isactive`)VALUES('admin','123','1');
-5) go to  http://localhost/glo/mini and click administrator login
-
-6) log with (user name ="admin" password="123")
-
-
-done....
